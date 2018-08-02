@@ -1,0 +1,89 @@
+{
+  "message": "Welkom bij de OV-coach! Waarover heb je een vraag?",
+  "options": [
+    {
+      "text": "Bus / trein / tram / metro",
+      "message": "Maak een keuze",
+      "options": [
+        {
+          "text": "Ik wil mijn reis plannen",
+          "message": "Hoe wil je je reis plannen?",
+          "options": [
+            {
+              "text": "Online",
+              "message": "Plan je reis op [9292.nl](http://9292.nl/)",
+              "options": [
+                {
+                  "text": "Gelukt",
+                  "message": ""
+                },
+                {
+                  "text": "Niet gelukt",
+                  "message": ""
+                }
+              ]
+            },
+            {
+              "text": "Telefonisch",
+              "message": "Bel naar [0900 9292](tel:09009292)",
+              "options": [
+                {
+                  "text": "Gelukt",
+                  "message": "Einde"
+                },
+                {
+                  "text": "Niet gelukt",
+                  "message": "Bel je [contactpersoon](tel:$CONTACTPERSOON)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ik wil informatie",
+          "message": "Wat wil je weten?",
+          "options": [
+            {
+              "text": "",
+              "message": ""
+            }
+          ]
+        },
+        {
+          "text": "Ik ben onderweg en heb een probleem",
+          "message": "Waar ben je nu?",
+          "options": [
+            {
+              "text": "Ik ben in de bus",
+              "message": ""
+            },
+            {
+              "text": "Ik ben in de trein",
+              "message": ""
+            },
+            {
+              "text": "Ik ben in de tram",
+              "message": ""
+            },
+            {
+              "text": "Ik ben in de metro",
+              "message": ""
+            },
+            {
+              "text": "Ik ben bij een halte",
+              "message": ""
+            },
+            {
+              "text": "Ik ben op het station",
+              "message": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Taxi",
+      "message": "Maak een keuze"
+    }
+  ]
+}

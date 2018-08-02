@@ -1,0 +1,15 @@
+{
+  "new": "New",
+  "open": "Open",
+  "save": "Save",
+  "saveAs": "Save as",
+  "root": "Root",
+  "error": "Error",
+  "newOption": "New option",
+  "deleteOption": "Delete this option",
+  "subOptionsRemaining": "Cannot delete. One or more sub-options remain.",
+  "jsonFiles": "JSON files",
+  "info": "Info",
+  "savedAs": "Saved as ",
+  "unnamedTree": "A tree with no name"
+}

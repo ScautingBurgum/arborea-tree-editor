@@ -1,0 +1,160 @@
+[
+  {
+    "id": 0,
+    "title": "wortel",
+    "content": "Welkom bij de OV-coach! Waarover heb je een vraag?",
+    "children": [
+      1,
+      19
+    ],
+    "parent": null
+  },
+  {
+    "id": 1,
+    "title": "Bus / trein / tram / metro",
+    "content": "Maak een keuze",
+    "children": [
+      3,
+      10,
+      12
+    ],
+    "parent": 0
+  },
+  {
+    "id": 3,
+    "title": "Ik wil mijn reis plannen",
+    "content": "Hoe wil je je reis plannen?",
+    "children": [
+      4,
+      7
+    ],
+    "parent": 1
+  },
+  {
+    "id": 4,
+    "title": "Online",
+    "content": "Plan je reis op [9292.nl](http://9292.nl/)",
+    "children": [
+      5,
+      6
+    ],
+    "parent": 3
+  },
+  {
+    "id": 5,
+    "title": "Gelukt",
+    "content": "",
+    "children": [],
+    "parent": 4
+  },
+  {
+    "id": 6,
+    "title": "Niet gelukt",
+    "content": "",
+    "children": [],
+    "parent": 4
+  },
+  {
+    "id": 7,
+    "title": "Telefonisch",
+    "content": "Bel naar [0900 9292](tel:09009292)",
+    "children": [
+      8,
+      9
+    ],
+    "parent": 3
+  },
+  {
+    "id": 8,
+    "title": "Gelukt",
+    "content": "Einde",
+    "children": [],
+    "parent": 7
+  },
+  {
+    "id": 9,
+    "title": "Niet gelukt",
+    "content": "Bel je [contactpersoon](tel:$CONTACTPERSOON)",
+    "children": [],
+    "parent": 7
+  },
+  {
+    "id": 10,
+    "title": "Ik wil informatie",
+    "content": "Wat wil je weten?",
+    "children": [
+      11
+    ],
+    "parent": 1
+  },
+  {
+    "id": 11,
+    "title": "",
+    "content": "",
+    "children": [],
+    "parent": 10
+  },
+  {
+    "id": 12,
+    "title": "Ik ben onderweg en heb een probleem",
+    "content": "Waar ben je nu?",
+    "children": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "parent": 1
+  },
+  {
+    "id": 13,
+    "title": "Ik ben in de bus",
+    "content": "",
+    "children": [],
+    "parent": 12
+  },
+  {
+    "id": 14,
+    "title": "Ik ben in de trein",
+    "content": "",
+    "children": [],
+    "parent": 12
+  },
+  {
+    "id": 15,
+    "title": "Ik ben in de tram",
+    "content": "",
+    "children": [],
+    "parent": 12
+  },
+  {
+    "id": 16,
+    "title": "Ik ben in de metro",
+    "content": "",
+    "children": [],
+    "parent": 12
+  },
+  {
+    "id": 17,
+    "title": "Ik ben bij een halte",
+    "content": "",
+    "children": [],
+    "parent": 12
+  },
+  {
+    "id": 18,
+    "title": "Ik ben op het station",
+    "content": "",
+    "children": [],
+    "parent": 12
+  },
+  {
+    "id": 19,
+    "title": "Taxi",
+    "content": "Maak een keuze",
+    "children": [],
+    "parent": 0
+  }
+]

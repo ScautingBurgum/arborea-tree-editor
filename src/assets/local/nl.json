@@ -1,0 +1,15 @@
+{
+  "new": "Nieuw",
+  "open": "Openen",
+  "save": "Opslaan",
+  "saveAs": "Opslaan als",
+  "root": "Wortel",
+  "error": "Fout",
+  "newOption": "Nieuwe optie",
+  "deleteOption": "Verwijder deze optie",
+  "subOptionsRemaining": "Kan niet verwijderen. Er zijn nog sub-opties.",
+  "jsonFiles": "JSON-bestanden",
+  "info": "Info",
+  "savedAs": "Opgeslagen als ",
+  "unnamedTree": "Een boom zonder naam"
+}
